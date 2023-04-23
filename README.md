@@ -17,3 +17,5 @@ The Personal Finance Dashboard offers a variety of features to help you manage y
 2. A breakdown of your expenses by category, such as housing, transportation, food, and entertainment
 3. A line chart that shows your income, expenses, and savings over time
 4. A bar graph that shows the percentage of your income that goes towards each expense category
+
+![Personal Finance Dashboard](https://github.com/ashubhamg/Personal-Finance/blob/main/Screenshot%20(176).png)
